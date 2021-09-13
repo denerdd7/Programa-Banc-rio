@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607379573 source:c:\users\use\documents\workspace\programa bancario cefet- dener rodrigues freire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+
